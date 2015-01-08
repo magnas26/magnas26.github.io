@@ -1,0 +1,15 @@
+#container {
+    width: 1200px;
+    margin: 0 auto;
+}
+ 
+
+.item{
+    width: 300px;
+    display: block;
+    float: left; 
+    
+
+
+
+}

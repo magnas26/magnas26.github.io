@@ -1,0 +1,8 @@
+#--------------------------
+# Video section 
+
+projects: 
+- {name: Typo international, folder: "proj-1"}
+- {name: Typo international, folder: "proj-2"}
+- {name: Typo international, folder: "proj-3"}
+- {name: Typo international, folder: "proj-4"}
