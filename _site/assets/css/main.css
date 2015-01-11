@@ -377,6 +377,7 @@ footer {
     opacity: 0; }
   .about p {
     text-align: center;
+    margin: 0;
     max-width: 520px;
     padding: 0 20px;
     margin: 30px auto;
