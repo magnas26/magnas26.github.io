@@ -287,7 +287,7 @@ header {
     padding-top: 10px;
     color: #a3a3a3; }
 
-@media (max-width: 1365px) {
+@media (max-width: 1360px) {
   header {
     background: #f7fcfd;
     min-height: 550px; }
