@@ -227,8 +227,8 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 header {
-  background: url(../img/twins-fix.jpg) no-repeat center center;
-  height: 800px;
+  background: url(../img/twins-fix3.jpg) no-repeat center center;
+  height: 740px;
   background-size: cover; }
   header nav {
     text-align: center;
@@ -287,10 +287,10 @@ header {
     padding-top: 10px;
     color: #a3a3a3; }
 
-@media (max-width: 1365px) {
+@media (max-width: 1360px) {
   header {
     background: #f7fcfd;
-    min-height: 550px; }
+    height: 650px; }
     header h1 {
       font-size: 50px; } }
 @media (max-width: 450px) {
@@ -358,9 +358,9 @@ footer {
     font-size: 20px; } }
 .about {
   background: white;
-  max-height: 900px; }
+  max-height: 700px; }
   .about h3 {
-    padding-top: 30px;
+    padding-top: 25px;
     margin: 0;
     font-family: raleway, sans serif;
     color: #8f9da6;
@@ -372,19 +372,20 @@ footer {
     width: 100%; }
   .about .img2 {
     text-align: center;
-    padding-top: 80px;
+    padding-top: 50px;
     position: relative;
     bottom: 200px; }
     .about .img2 img {
       max-width: 100%;
       height: auto; }
   .about .imagewraper {
-    opacity: 0; }
+    opacity: 0;
+    margin: 0; }
   .about p {
     text-align: center;
     max-width: 520px;
-    padding: 0 20px;
-    margin: 60px auto;
+    padding: 0 10px;
+    margin: 30px auto;
     color: #8f9da6;
     font-size: 20px;
     position: relative;
@@ -726,7 +727,7 @@ footer {
   .player1 #video1 {
     margin: 0 auto; }
 
-@media (max-width: 1367px) {
+@media (max-width: 1360px) {
   .video-container .thumb-all {
     width: 320px;
     display: block;
@@ -810,15 +811,15 @@ footer {
     padding-top: 70px;
     font-weight: 300; }
   .photos #hero {
-    width: 1400px;
+    width: 1360px;
     height: 690px;
-    margin: auto;
+    margin: 0 auto;
     display: block;
     position: relative;
     padding-top: 80px;
     padding-bottom: 100px; }
     .photos #hero #slider {
-      width: 1400px;
+      width: 1360px;
       height: 690px;
       position: absolute;
       overflow: hidden;
@@ -831,7 +832,7 @@ footer {
     display: block;
     position: absolute;
     top: 400px;
-    left: 1300px;
+    left: 1268px;
     font-size: 20px;
     cursor: pointer;
     z-index: 999;
@@ -889,7 +890,7 @@ footer {
     margin: auto;
     text-align: center;
     position: relative;
-    bottom: 70px;
+    bottom: 50px;
     font-family: "Quicksand", sans-serif;
     font-weight: 400;
     font-size: 20px;
