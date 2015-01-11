@@ -726,7 +726,7 @@ footer {
   .player1 #video1 {
     margin: 0 auto; }
 
-@media (max-width: 1367px) {
+@media (max-width: 1360px) {
   .video-container .thumb-all {
     width: 320px;
     display: block;
@@ -810,7 +810,7 @@ footer {
     padding-top: 70px;
     font-weight: 300; }
   .photos #hero {
-    width: 1400px;
+    width: 1360px;
     height: 690px;
     margin: auto;
     display: block;
@@ -818,7 +818,7 @@ footer {
     padding-top: 80px;
     padding-bottom: 100px; }
     .photos #hero #slider {
-      width: 1400px;
+      width: 1360px;
       height: 690px;
       position: absolute;
       overflow: hidden;
@@ -831,7 +831,7 @@ footer {
     display: block;
     position: absolute;
     top: 400px;
-    left: 1300px;
+    left: 1272px;
     font-size: 20px;
     cursor: pointer;
     z-index: 999;
