@@ -358,7 +358,7 @@ footer {
     font-size: 20px; } }
 .about {
   background: white;
-  max-height: 538px; }
+  max-height: 545px; }
   .about h3 {
     padding-top: 20px;
     margin: 0;
@@ -392,9 +392,6 @@ footer {
   .img2 {
     display: none; }
 
-  h4 {
-    display: none; }
-
   .about {
     max-height: 655px; }
     .about h3 {
@@ -418,7 +415,8 @@ footer {
       margin-bottom: 20px;
       opacity: 1; } }
 .videos {
-  background: #e1f3f6; }
+  background: #e1f3f6;
+  margin: 0; }
   .videos h3 {
     margin: 0;
     margin: 0 auto;
