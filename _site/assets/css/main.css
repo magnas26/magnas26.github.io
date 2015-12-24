@@ -227,8 +227,8 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 header {
-  background: url(../img/twins-fix.jpg) no-repeat center center;
-  height: 700px;
+  background: url(../img/twins-fixSmall.png) no-repeat center center;
+  height: 768px;
   background-size: cover; }
   header nav {
     text-align: center;
@@ -287,7 +287,7 @@ header {
     padding-top: 10px;
     color: #a3a3a3; }
 
-@media (max-width: 1360px) {
+@media (max-width: 1150px) {
   header {
     background: #f7fcfd;
     min-height: 550px; }
@@ -728,7 +728,7 @@ footer {
   .player1 #video1 {
     margin: 0 auto; }
 
-@media (max-width: 1360px) {
+@media (max-width: 1150px) {
   .video-container .thumb-all {
     width: 320px;
     display: block;
@@ -737,15 +737,23 @@ footer {
     .video-container .thumb-all .thumb-video1 {
       width: 100%;
       padding-top: 40%; }
+      .video-container .thumb-all .thumb-video1 .overlay2 {
+        padding-top: 1%; }
     .video-container .thumb-all .thumb-video2 {
       width: 100%;
       padding-top: 40%; }
+      .video-container .thumb-all .thumb-video2 .overlay2 {
+        padding-top: 1%; }
     .video-container .thumb-all .thumb-video3 {
       width: 100%;
       padding-top: 40%; }
+      .video-container .thumb-all .thumb-video3 .overlay2 {
+        padding-top: 1%; }
     .video-container .thumb-all .thumb-video4 {
       width: 100%;
       padding-top: 40%; }
+      .video-container .thumb-all .thumb-video4 .overlay2 {
+        padding-top: 1%; }
 
   .overlay1 {
     display: none; }
@@ -902,7 +910,7 @@ footer {
       color: black; }
 
 .message {
-  background: white; }
+  background: pink; }
 
 #contact {
   margin: 0;
