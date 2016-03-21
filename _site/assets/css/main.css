@@ -361,11 +361,12 @@ footer {
   max-height: 560px; }
   .about h3 {
     padding-top: 30px;
+    padding-left: 0px;
     margin: 0;
     font-family: raleway, sans serif;
     color: #8f9da6;
     font-size: 50px;
-    font-weight: 200;
+    font-weight: 100;
     text-align: center; }
   .about .img1 {
     text-align: center;
@@ -388,6 +389,7 @@ footer {
     margin: 40px auto;
     color: #8f9da6;
     font-size: 20px;
+    font-family: "Open Sans", Sans-serif;
     position: relative;
     bottom: 100px; }
   .about p.motto {
@@ -446,6 +448,7 @@ footer {
     letter-spacing: 1em;
     color: #deb75c;
     padding-top: 70px;
+    padding-left: 0px;
     font-weight: 300; }
   .videos h5 {
     margin: 0 auto;
@@ -782,6 +785,7 @@ footer {
   .musics h3 {
     margin: 0;
     margin: 0 auto;
+    padding-left: 0px;
     text-align: center;
     font-family: "Quicksand", sans-serif;
     letter-spacing: 1em;
@@ -812,6 +816,7 @@ footer {
   background: #e1f3f6; }
   .photos h3 {
     margin: 0;
+    padding-left: 0px;
     margin: 0 auto;
     text-align: center;
     font-family: "Quicksand", sans-serif;
